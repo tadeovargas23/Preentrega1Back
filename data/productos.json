@@ -1,0 +1,68 @@
+[
+  {
+    "id": 2,
+    "title": "Pantalón vaquero",
+    "description": "Pantalón de mezclilla con corte slim fit",
+    "code": "PNT001",
+    "price": 40,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "pantalon1.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Sudadera con capucha",
+    "description": "Sudadera con capucha, 80% algodón, 20% poliéster",
+    "code": "SUD001",
+    "price": 25,
+    "status": true,
+    "stock": 75,
+    "category": "Ropa",
+    "thumbnails": [
+      "sudadera1.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Zapatillas deportivas",
+    "description": "Zapatillas ligeras con suela de goma",
+    "code": "ZPT001",
+    "price": 60,
+    "status": true,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "zapatillas1.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Chaqueta de cuero",
+    "description": "Chaqueta de cuero sintético, estilo motero",
+    "code": "CHQ001",
+    "price": 100,
+    "status": true,
+    "stock": 20,
+    "category": "Ropa",
+    "thumbnails": [
+      "chaqueta1.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "status": true,
+    "title": "Camiseta de moda",
+    "description": "Camiseta moderna con diseño minimalista",
+    "code": "TSHIRT001",
+    "price": 25.99,
+    "stock": 100,
+    "category": "Ropa",
+    "thumbnails": [
+      "url_imagen1.jpg",
+      "url_imagen2.jpg"
+    ]
+  }
+]
